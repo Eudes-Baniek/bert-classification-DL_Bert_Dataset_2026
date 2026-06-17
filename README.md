@@ -107,7 +107,7 @@ python -m train
 
 # lancer l'interface gradio
 
-python demo.py
+pytho -m demo.py
 
 # Métriques Finales
 
