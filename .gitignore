@@ -1,0 +1,19 @@
+# Données
+data/
+*.csv
+*.json
+
+# Checkpoints
+checkpoints/
+*.pt
+__pycache__/
+
+# Environnement
+.venv/
+venv/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+*.swp
